@@ -1,6 +1,8 @@
 # mental-burnout-disambiguation
 
-## Dataset Description
+Dataset of 2,330 Reddit posts labeled for discussion of mental burnout and context of burnout. You can read more about the dataset in our paper. 
+
+## Annotation Description
 
 ### Task 1: Burnout Disambiguation 
 
