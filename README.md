@@ -9,3 +9,14 @@
 ## Reading the data
 
 ## How do I cite this work?
+
+```
+@inproceedings{
+sabri2024inferring,
+title={Inferring Mental Burnout Discourse Across Reddit Communities},
+author={Sabri, Nazanin and Pham, Anh C. and Kakkar, Ishita and ElSherief, Mai},
+booktitle={Third Workshop on NLP for Positive Impact (Direct Submission)},
+year={2024},
+url={https://openreview.net/forum?id=EL5HZ4eU1Y}
+}
+```
